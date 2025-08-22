@@ -1,4 +1,5 @@
 📜 Visão Geral do Projeto
+
 Este repositório documenta o desenvolvimento de um dashboard interativo para análise de performance de vendas e lucratividade, utilizando o Microsoft Power BI. O projeto foi realizado como parte da formação em Análise de Dados da DIO.me, com o objetivo de aplicar conceitos fundamentais de Business Intelligence (BI) e visualização de dados para extrair insights estratégicos a partir de um conjunto de dados comerciais.
 
 O dashboard consolidado permite que gestores e analistas de negócio monitorem, de forma intuitiva e dinâmica, os principais indicadores de desempenho (KPIs), identifiquem tendências, padrões de consumo e oportunidades de melhoria.
